@@ -1,9 +1,7 @@
-project: wgibbs15/wormhole-fuzz
+project: wormhole
 
 # Target name (should be unique within the project)
-target: wormhole-fuzz
-
-image: ghcr.io/wgibbs15/wormhole-fuzz:latest
+target: vaa
 
 # List of commands used to test the target
 cmds:
